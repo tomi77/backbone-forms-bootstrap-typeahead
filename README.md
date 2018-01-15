@@ -1,5 +1,6 @@
 # Backbone-Forms Bootstrap TypeAhead editor
 
+[![Build Status](https://travis-ci.org/tomi77/backbone-forms-bootstrap-typeahead.svg?branch=master)](https://travis-ci.org/tomi77/backbone-forms-bootstrap-typeahead)
 [![Code Climate](https://codeclimate.com/github/tomi77/backbone-forms-bootstrap-typeahead/badges/gpa.svg)](https://codeclimate.com/github/tomi77/backbone-forms-bootstrap-typeahead)
 [![dependencies Status](https://david-dm.org/tomi77/backbone-forms-bootstrap-typeahead/status.svg)](https://david-dm.org/tomi77/backbone-forms-bootstrap-typeahead)
 [![devDependencies Status](https://david-dm.org/tomi77/backbone-forms-bootstrap-typeahead/dev-status.svg)](https://david-dm.org/tomi77/backbone-forms-bootstrap-typeahead#type=dev)
