@@ -23,6 +23,8 @@
   Additional editors that depend on Twitter TypeAhead
   ###
   Form.editors['bootstrap.typeahead'] = Form.editors.Text.extend
+    className: 'bbf-bootstrap-typeahead'
+
     initialize: (options) ->
       Form.editors.Base::initialize.call @, options
 

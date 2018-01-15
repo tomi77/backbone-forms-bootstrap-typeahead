@@ -26,6 +26,7 @@
   Additional editors that depend on Twitter TypeAhead
    */
   Form.editors['bootstrap.typeahead'] = Form.editors.Text.extend({
+    className: 'bbf-bootstrap-typeahead',
     initialize: function(options) {
       var ref;
       Form.editors.Base.prototype.initialize.call(this, options);
