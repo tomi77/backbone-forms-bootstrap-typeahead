@@ -13,6 +13,7 @@
     "backbone-forms": ">=0.9.0"
   },
   "scripts": {
+    "test": "cucumber.js --compiler coffee:coffee-script/register --tags \"not @ignore\"",
     "build": "coffee --bare --compile --no-header --output . src/index.coffee; cp index.js demo/bbf-typeahead.js"
   },
   "repository": "tomi77/backbone-forms-bootstrap-typeahead",
